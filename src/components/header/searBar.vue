@@ -5,7 +5,7 @@
         
         <router-link :to="{name:'index'}">
           <img
-          src="//s0.meituan.net/bs/fe-web-meituan/fa5f0f0/img/logo.png"
+          src="http://s0.meituan.net/bs/fe-web-meituan/fa5f0f0/img/logo.png"
           alt="美团"
         />
         </router-link>

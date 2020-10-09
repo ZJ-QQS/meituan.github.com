@@ -69,7 +69,7 @@ mock(RegExp(MnuUrl + '.*'), 'get', MenuData)
 //conList数据模拟
 let containerData = {
     "istyle": [{
-            image: "//p1.meituan.net/merchantpic/d21654266444420917d382d879f9c1aa81640.jpg@220w_125h_1e_1c",
+            image: "http://p1.meituan.net/merchantpic/d21654266444420917d382d879f9c1aa81640.jpg@220w_125h_1e_1c",
             title: "三画美容养生",
             subTitle: "美容SPA|长营",
             price_info: {
@@ -81,7 +81,7 @@ let containerData = {
             address: "长楹天街",
         },
         {
-            image: "//p0.meituan.net/merchantpic/29c95bffe8421d4d501ccf9f8c555f1a173333.jpg@220w_125h_1e_1c",
+            image: "http://p0.meituan.net/merchantpic/29c95bffe8421d4d501ccf9f8c555f1a173333.jpg@220w_125h_1e_1c",
             title: "惊魂密室",
             subTitle: "密室逃脱|魏公村",
             price_info: {
@@ -93,7 +93,7 @@ let containerData = {
             address: "海淀区中关村",
         },
         {
-            image: "//p1.meituan.net/joymerchant/55255ac8bbd1a65f6b0046ae1daf854e--1335954177.jpg@220w_125h_1e_1c",
+            image: "http://p1.meituan.net/joymerchant/55255ac8bbd1a65f6b0046ae1daf854e--1335954177.jpg@220w_125h_1e_1c",
             title: "光影密室逃脱俱乐部",
             subTitle: "日式惊恐《被错过的天堂》",
             price_info: {
@@ -105,7 +105,7 @@ let containerData = {
             address: "东城区和平里",
         },
         {
-            image: "//p0.meituan.net/bbia/2dc779cf33e0b835b4bf6153f738c2834204321.jpg@220w_125h_1e_1c",
+            image: "http://p0.meituan.net/bbia/2dc779cf33e0b835b4bf6153f738c2834204321.jpg@220w_125h_1e_1c",
             title: "清月里食点酒地摊儿烤肉",
             subTitle: "100元品牌代金券1张，可叠加",
             price_info: {
@@ -117,7 +117,7 @@ let containerData = {
             address: "五道口",
         },
         {
-            image: "//p1.meituan.net/dpmerchantpic/2f43a42d5e657531d999e9d3b749dd4d224210.jpg",
+            image: "http://p1.meituan.net/dpmerchantpic/2f43a42d5e657531d999e9d3b749dd4d224210.jpg",
             title: "惑星桌游",
             subTitle: "学生假日畅游",
             price_info: {
@@ -129,7 +129,7 @@ let containerData = {
             address: "大钟寺",
         },
         {
-            image: "//p1.meituan.net/dpmerchantpic/a1a5c5d8ee0d96593ad726bfb331b315330075.jpg",
+            image: "http://p1.meituan.net/dpmerchantpic/a1a5c5d8ee0d96593ad726bfb331b315330075.jpg",
             title: "Hicool嗨酷运动乐园·蹦床团建篮球",
             subTitle: "夜场蹦迪/减肥",
             price_info: {
@@ -142,7 +142,7 @@ let containerData = {
         }
     ],
     "youhui": [{
-            image: "//p0.meituan.net/msmerchant/b0cbddc294e73ffa587e6aea5c7c561071082.jpg@256w_144h_1e_1c",
+            image: "http://p0.meituan.net/msmerchant/b0cbddc294e73ffa587e6aea5c7c561071082.jpg@256w_144h_1e_1c",
             title: "戈拿望巴西烤肉",
             subTitle: "下午餐双人套餐，提供免费wifi",
             price_info: {
@@ -154,7 +154,7 @@ let containerData = {
             address: "崇文门",
         },
         {
-            image: "//p0.meituan.net/msmerchant/e63ee09b50df0ea9f6ba2d70a2b588f8103220.jpg@256w_144h_1e_1c",
+            image: "http://p0.meituan.net/msmerchant/e63ee09b50df0ea9f6ba2d70a2b588f8103220.jpg@256w_144h_1e_1c",
             title: "九门轩烤鸭店",
             subTitle: "烤鸭2-3人就餐，提供免费wifi",
             price_info: {
@@ -166,7 +166,7 @@ let containerData = {
             address: "九门轩",
         },
         {
-            image: "//p1.meituan.net/msmerchant/71cb53f4f5eb0062f8719d3074f2cd3e2527038.jpg@220w_125h_1e_1c",
+            image: "http://p1.meituan.net/msmerchant/71cb53f4f5eb0062f8719d3074f2cd3e2527038.jpg@220w_125h_1e_1c",
             title: "六合顺西北菜烤串",
             subTitle: "中午双人套餐，有赠品",
             price_info: {
@@ -178,7 +178,7 @@ let containerData = {
             address: "左家庄",
         },
         {
-            image: "//p1.meituan.net/merchantpic/dc551edefb921ccb3bbd4d12f25466e9786529.jpg@220w_125h_1e_1c",
+            image: "http://p1.meituan.net/merchantpic/dc551edefb921ccb3bbd4d12f25466e9786529.jpg@220w_125h_1e_1c",
             title: "道和会馆",
             subTitle: "按摩/足疗|太阳宫/养生",
             price_info: {
@@ -190,7 +190,7 @@ let containerData = {
             address: "朝阳区",
         },
         {
-            image: "//p1.meituan.net/mogu/9ab8497abc9beed91494bf477083d5ff246259.jpg@220w_125h_1e_1c",
+            image: "http://p1.meituan.net/mogu/9ab8497abc9beed91494bf477083d5ff246259.jpg@220w_125h_1e_1c",
             title: "一珍香江南渔府",
             subTitle: "私密性好包厢设计 适合宴请",
             price_info: {
@@ -202,7 +202,7 @@ let containerData = {
             address: "西城区",
         },
         {
-            image: "//p0.meituan.net/msmerchant/28a55d3d68b67572701f5b8ac94776772903413.jpg@220w_125h_1e_1c",
+            image: "http://p0.meituan.net/msmerchant/28a55d3d68b67572701f5b8ac94776772903413.jpg@220w_125h_1e_1c",
             title: "与光影餐厅",
             subTitle: "下午餐双人套餐，提供免费wifi",
             price_info: {
@@ -215,7 +215,7 @@ let containerData = {
         }
     ],
     "travel": [{
-            image: "//p0.meituan.net/hotel/560a0ddcdb23d46f145b55c52787df3f3619582.png@220w_125h_1e_1c",
+            image: "http://p0.meituan.net/hotel/560a0ddcdb23d46f145b55c52787df3f3619582.png@220w_125h_1e_1c",
             title: "古北水镇",
             subTitle: "日场司马台长城",
             price_info: {
@@ -227,7 +227,7 @@ let containerData = {
             address: "密云区古北口镇",
         },
         {
-            image: "//p1.meituan.net/travel/e3da95f00edcbcac7e4d28cbeefb2db4754993.png@220w_125h_1e_1c",
+            image: "http://p1.meituan.net/travel/e3da95f00edcbcac7e4d28cbeefb2db4754993.png@220w_125h_1e_1c",
             title: "八达岭长城",
             subTitle: "文物古迹|八达岭",
             price_info: {
@@ -239,7 +239,7 @@ let containerData = {
             address: "延庆区八达岭",
         },
         {
-            image: "//p0.meituan.net/tdctraveldark/f06d518ccfe2dc09cfb4c03b20664d9c462103.png@220w_125h_1e_1c",
+            image: "http://p0.meituan.net/tdctraveldark/f06d518ccfe2dc09cfb4c03b20664d9c462103.png@220w_125h_1e_1c",
             title: "故宫博物院",
             subTitle: "人工讲解+无线耳麦",
             price_info: {
@@ -251,7 +251,7 @@ let containerData = {
             address: "东城区",
         },
         {
-            image: "//p0.meituan.net/bbia/2dc779cf33e0b835b4bf6153f738c2834204321.jpg@220w_125h_1e_1c",
+            image: "http://p0.meituan.net/bbia/2dc779cf33e0b835b4bf6153f738c2834204321.jpg@220w_125h_1e_1c",
             title: "颐和园",
             subTitle: "明十三陵、鸟巢等纯一日跟团游",
             price_info: {
@@ -263,7 +263,7 @@ let containerData = {
             address: "新建宫门路",
         },
         {
-            image: "//p1.meituan.net/travel/5c92bb818023512df32436fa2df5abf01275940.png@220w_125h_1e_1c",
+            image: "http://p1.meituan.net/travel/5c92bb818023512df32436fa2df5abf01275940.png@220w_125h_1e_1c",
             title: "什刹海",
             subTitle: "自然风光/后海",
             price_info: {
@@ -275,7 +275,7 @@ let containerData = {
             address: "西城区地安门",
         },
         {
-            image: "//p1.meituan.net/tdctraveldark/b3d1c296df9cb597fe586394673f1bf23193445.jpg@220w_125h_1e_1c",
+            image: "http://p1.meituan.net/tdctraveldark/b3d1c296df9cb597fe586394673f1bf23193445.jpg@220w_125h_1e_1c",
             title: "北京海洋馆",
             subTitle: "北京动物园+北京海洋馆大学生门票",
             price_info: {

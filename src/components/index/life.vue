@@ -31,7 +31,7 @@
             </el-col>
             <el-col :span="6">
                 <div class="m-life-login">
-                   <h4> <img src="//s0.meituan.net/bs/fe-web-meituan/2d05c2b/img/avatar.jpg" alt></h4>
+                   <h4> <img src="http://s0.meituan.net/bs/fe-web-meituan/2d05c2b/img/avatar.jpg" alt></h4>
                    <p class="m-life-login-name">Hi!你好</p>
                     <p>
                         <router-link :to="{name:'register'}">
@@ -58,7 +58,7 @@
             </el-col>
             <el-col :span="6">
                 <div class="m-life-downapp">
-                    <img src="//s1.meituan.net/bs/fe-web-meituan/60ac9a0/img/download-qr.png" alt="下载APP">
+                    <img src="http://s1.meituan.net/bs/fe-web-meituan/60ac9a0/img/download-qr.png" alt="下载APP">
                     <p>美团APP手机版</p>
                     <p class="last-p">
                         <span>1元起</span>
