@@ -97,7 +97,7 @@
                         <dd>
                         <img
                             class="appicon"
-                            src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png"
+                            src="http://s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png"
                             title="美团app"
                             alt="美团app"
                         />
@@ -105,7 +105,7 @@
                         <dd>
                         <img
                             class="appicon"
-                            src="//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/waimai.png"
+                            src="http://s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/waimai.png"
                             title="外卖app"
                             alt="外卖app"
                         />
@@ -121,7 +121,7 @@
                         <dd>
                         <img
                             class="appicon"
-                            src="//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/dianping.png"
+                            src="http://s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/dianping.png"
                             title="点评app"
                             alt="点评app"
                         />
@@ -129,7 +129,7 @@
                         <dd>
                         <img
                             class="appicon"
-                            src="//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/maoyan.png"
+                            src="http://s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/maoyan.png"
                             title="猫眼app"
                             alt="猫眼app"
                         />
